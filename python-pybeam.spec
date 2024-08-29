@@ -1,5 +1,5 @@
 Name:		python-pybeam
-Version:	0.7
+Version:	0.8
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/pybeam/pybeam-%{version}.tar.gz
 Summary:	Python module to parse Erlang BEAM files
