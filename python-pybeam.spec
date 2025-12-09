@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/pybeam/
 License:	MIT
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildSystem:	python
 BuildArch:	noarch
 
