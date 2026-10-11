@@ -1,6 +1,6 @@
 Name:		python-pybeam
 Version:	0.8.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pybeam/pybeam-%{version}.tar.gz
 Summary:	Python module to parse Erlang BEAM files
 URL:		https://pypi.org/project/pybeam/
